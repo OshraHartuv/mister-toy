@@ -1,5 +1,7 @@
 const asyncLocalStorage = require('./als.service');
 const logger = require('./logger.service');
+// var gUsersCount = 0
+// const gMsgs = []
 
 var gIo = null
 
@@ -28,6 +30,13 @@ function connectSockets(http, session) {
             // gIo.emit('chat addMsg', msg)
             // emits only to sockets in the same room
             gIo.to(socket.myTopic).emit('chat addMsg', msg)
+        })
+        socket.on('chat sendTyping', fullName => {
+            console.log('Emitting Chat msg', fullName);
+            // emits to all sockets:
+            // gIo.emit('chat addMsg', msg)
+            // emits only to sockets in the same room
+            socket.broadcast.to(socket.myTopic).emit('chat userTyping', fullName)
         })
         socket.on('user-watch', userId => {
             socket.join('watching:' + userId)

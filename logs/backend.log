@@ -629,3 +629,47 @@
 11/29/2021, 8:24:27 PM - INFO - Req from: Admin 
 11/29/2021, 8:24:58 PM - INFO - Server is running on port: 3030 
 11/29/2021, 8:25:24 PM - INFO - Server is running on port: 3030 
+11/29/2021, 8:50:55 PM - INFO - Server is running on port: 3030 
+11/29/2021, 8:52:05 PM - DEBUG - auth.service - login with username: admin 
+11/29/2021, 8:52:06 PM - DEBUG - Setting (0VeaD017v09iyfPNAAAF) socket.userId = 61a119c21ee9024b88be99f9 
+11/29/2021, 8:54:16 PM - DEBUG - auth.service - login with username: admin 
+11/29/2021, 8:54:16 PM - DEBUG - Setting (_WLjzn4BiEpAT91SAAAH) socket.userId = 61a119c21ee9024b88be99f9 
+11/29/2021, 9:04:40 PM - INFO - Server is running on port: 3030 
+11/29/2021, 9:24:45 PM - DEBUG - auth.service - login with username: admin 
+11/29/2021, 9:24:45 PM - DEBUG - Setting (oAzANtxkYP1YZoRcAAAH) socket.userId = 61a119c21ee9024b88be99f9 
+11/29/2021, 9:44:54 PM - DEBUG - auth.service - login with username: admin 
+11/29/2021, 9:44:54 PM - DEBUG - Setting (oAzANtxkYP1YZoRcAAAH) socket.userId = 61a119c21ee9024b88be99f9 
+11/29/2021, 9:50:18 PM - DEBUG - auth.service - login with username: a 
+11/29/2021, 9:50:18 PM - DEBUG - Setting (2BEQGLwLJNHfQlGHAAAT) socket.userId = 61a0dd1dd8dae530dc871ded 
+11/29/2021, 9:52:26 PM - DEBUG - auth.service - login with username: admin 
+11/29/2021, 9:52:26 PM - DEBUG - Setting (pjaiyAv-t6_Sgy9dAAAV) socket.userId = 61a119c21ee9024b88be99f9 
+11/29/2021, 9:52:35 PM - DEBUG - auth.service - login with username: a 
+11/29/2021, 9:52:35 PM - DEBUG - Setting (XbtggDHDhVAdNHNvAAAX) socket.userId = 61a0dd1dd8dae530dc871ded 
+11/29/2021, 9:57:01 PM - DEBUG - auth.service - login with username: admin 
+11/29/2021, 9:57:01 PM - DEBUG - Setting (2shNIRfnZT9jncJiAAAd) socket.userId = 61a119c21ee9024b88be99f9 
+11/29/2021, 9:57:06 PM - DEBUG - auth.service - login with username: a 
+11/29/2021, 9:57:06 PM - DEBUG - Setting (vA9W1fBucr1dgbqIAAAf) socket.userId = 61a0dd1dd8dae530dc871ded 
+11/29/2021, 10:04:59 PM - INFO - Server is running on port: 3030 
+11/29/2021, 10:06:34 PM - DEBUG - auth.service - login with username: a 
+11/29/2021, 10:06:34 PM - DEBUG - Setting (qrveMbMqmXf6byyLAAAH) socket.userId = 61a0dd1dd8dae530dc871ded 
+11/29/2021, 10:06:38 PM - DEBUG - auth.service - login with username: admin 
+11/29/2021, 10:06:39 PM - DEBUG - Setting (I_boGloYZGDZ-NmdAAAF) socket.userId = 61a119c21ee9024b88be99f9 
+11/29/2021, 10:12:10 PM - INFO - Server is running on port: 3030 
+11/29/2021, 10:13:40 PM - INFO - Server is running on port: 3030 
+11/29/2021, 10:13:52 PM - DEBUG - auth.service - login with username: admin 
+11/29/2021, 10:13:52 PM - DEBUG - Setting (nt5U0YAL3dLq03EkAAAF) socket.userId = 61a119c21ee9024b88be99f9 
+11/29/2021, 10:15:38 PM - INFO - Server is running on port: 3030 
+11/29/2021, 10:15:53 PM - DEBUG - auth.service - login with username: admin 
+11/29/2021, 10:15:53 PM - DEBUG - Setting (0VDWaUtwAJbqkGfLAAAF) socket.userId = 61a119c21ee9024b88be99f9 
+11/29/2021, 10:16:00 PM - DEBUG - auth.service - login with username: a 
+11/29/2021, 10:16:00 PM - DEBUG - Setting (0GSWKfuIyKLto4zgAAAH) socket.userId = 61a0dd1dd8dae530dc871ded 
+11/29/2021, 10:19:41 PM - INFO - Server is running on port: 3030 
+11/29/2021, 10:20:04 PM - DEBUG - auth.service - login with username: admin 
+11/29/2021, 10:20:04 PM - DEBUG - Setting (d8nxBcMUjXY_Ay81AAAF) socket.userId = 61a119c21ee9024b88be99f9 
+11/29/2021, 10:20:23 PM - DEBUG - auth.service - login with username: a 
+11/29/2021, 10:20:23 PM - DEBUG - Setting (CARuiTOMzEiWMdNaAAAH) socket.userId = 61a0dd1dd8dae530dc871ded 
+11/29/2021, 10:26:57 PM - INFO - Server is running on port: 3030 
+11/29/2021, 10:27:13 PM - DEBUG - auth.service - login with username: admin 
+11/29/2021, 10:27:13 PM - DEBUG - Setting (m0kIS_DSgTMF0bpJAAAF) socket.userId = 61a119c21ee9024b88be99f9 
+11/29/2021, 10:27:16 PM - DEBUG - auth.service - login with username: a 
+11/29/2021, 10:27:16 PM - DEBUG - Setting (kmu8XeCzfOA_ZJGoAAAB) socket.userId = 61a0dd1dd8dae530dc871ded 
