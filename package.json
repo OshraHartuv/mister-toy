@@ -1,26 +1,40 @@
 {
+  "name": "front",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build --dest ../back/public"
+  },
   "dependencies": {
-    "bcrypt": "^5.0.1",
-    "cors": "^2.8.5",
-    "express": "^4.17.1",
-    "express-session": "^1.16.2",
-    "mongodb": "^3.2.7",
-    "path": "^0.12.7",
-    "socket.io": "^4.4.0"
+    "axios": "^0.24.0",
+    "chart.js": "^2.9.4",
+    "core-js": "^3.6.5",
+    "element-ui": "^2.15.6",
+    "moment": "^2.29.1",
+    "register-service-worker": "^1.7.2",
+    "sass": "^1.43.4",
+    "socket.io-client": "^4.4.0",
+    "vee-validate": "^3.4.14",
+    "vue": "^2.6.14",
+    "vue-chartjs": "^3.5.1",
+    "vue-multi-select": "^4.6.0",
+    "vue-multiselect": "^2.1.6",
+    "vue-router": "^3.2.0",
+    "vuex": "^3.4.0"
   },
   "devDependencies": {
-    "nodemon": "1.18.10"
+    "@vue/cli-plugin-babel": "~4.5.0",
+    "@vue/cli-plugin-router": "~4.5.0",
+    "@vue/cli-plugin-vuex": "~4.5.0",
+    "@vue/cli-service": "~4.5.0",
+    "sass-loader": "^8.0.2",
+    "vue-template-compiler": "^2.6.11",
+    "webpack": "^4.0.0"
   },
-  "scripts": {
-    "start": "set NODE_ENV=development && nodemon server.js",
-    "server:dev": "set NODE_ENV=development && nodemon server.js",
-    "server:prod": "node server.js"
-  },
-  "name": "back",
-  "version": "1.0.0",
-  "main": "server.js",
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": ""
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
 }
