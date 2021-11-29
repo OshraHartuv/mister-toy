@@ -1,0 +1,129 @@
+[
+  {
+    "name": "Adam",
+    "price": "1500",
+    "labels": [
+      "Art",
+      "Baby",
+      "Doll"
+    ],
+    "createdAt": 1637676889456,
+    "inStock": true
+  },
+  {
+    "name": "Katan",
+    "price": "150",
+    "labels": [
+      {
+        "val": "boxGame",
+        "txt": "Box game"
+      }
+    ],
+    "createdAt": 1637676889456,
+    "inStock": true
+  },
+  {
+    "name": "Trees puzzle",
+    "price": "800",
+    "labels": [
+      "Puzzle"
+    ],
+    "createdAt": 1637676889456,
+    "inStock": true
+  },
+  {
+    "name": "Oshra",
+    "price": "150",
+    "labels": [
+      "Art",
+      "Baby",
+      "Doll"
+    ],
+    "inStock": true,
+    "createdAt": 1637695779365
+  },
+  {
+    "name": "fgfdg",
+    "price": "4",
+    "labels": [
+      "Art"
+    ],
+    "inStock": true,
+    "createdAt": 1637778363236
+  },
+  {
+    "name": "fgdgd",
+    "price": "1",
+    "labels": [
+      "Baby"
+    ],
+    "inStock": true,
+    "createdAt": 1637778369580
+  },
+  {
+    "name": "fdgfd",
+    "price": "1",
+    "labels": [
+      "Art"
+    ],
+    "inStock": true,
+    "createdAt": 1637778376952
+  },
+  {
+    "name": "fdgfd",
+    "price": "1",
+    "labels": [
+      "Baby"
+    ],
+    "inStock": true,
+    "createdAt": 1637778383752
+  },
+  {
+    "name": "fdgfd",
+    "price": "1",
+    "labels": [
+      "Puzzle"
+    ],
+    "inStock": true,
+    "createdAt": 1637778390186
+  },
+  {
+    "name": "lala",
+    "price": "15",
+    "labels": [],
+    "inStock": true,
+    "createdAt": 1637780138313
+  },
+  {
+    "name": "papa",
+    "price": "15458",
+    "labels": [
+      "Baby"
+    ],
+    "inStock": true,
+    "createdAt": 1637780168360
+  },
+  {
+    "name": "sada",
+    "price": "2",
+    "labels": [],
+    "inStock": true,
+    "createdAt": 1637780200153
+  },
+  {
+    "name": "adasdsa",
+    "price": "5",
+    "labels": [
+      "Art"
+    ],
+    "inStock": true,
+    "createdAt": 1637780208333
+  },
+  {
+    "name": "lala",
+    "price": "202",
+    "labels": [],
+    "inStock": true,
+    "createdAt": 1637780662695
+  }
+]
