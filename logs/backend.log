@@ -533,3 +533,56 @@
 11/29/2021, 4:38:02 PM - INFO - Server is running on port: 3030 
 11/29/2021, 4:41:17 PM - INFO - Server is running on port: 3030 
 11/29/2021, 4:41:38 PM - INFO - Server is running on port: 3030 
+11/29/2021, 5:46:47 PM - INFO - Server is running on port: 3030 
+11/29/2021, 5:47:55 PM - INFO - Server is running on port: 3030 
+11/29/2021, 5:53:41 PM - INFO - Server is running on port: 3030 
+11/29/2021, 5:54:04 PM - DEBUG - auth.service - login with username: admin 
+11/29/2021, 5:55:11 PM - INFO - Server is running on port: 3030 
+11/29/2021, 5:55:25 PM - INFO - Server is running on port: 3030 
+11/29/2021, 5:57:52 PM - INFO - Server is running on port: 3030 
+11/29/2021, 5:58:04 PM - DEBUG - auth.service - login with username: שגצןמ 
+11/29/2021, 5:58:04 PM - ERROR - Failed to Login Invalid username or password 
+11/29/2021, 5:58:08 PM - DEBUG - auth.service - login with username: admin 
+11/29/2021, 5:58:09 PM - ERROR - Failed to Login Invalid username or password 
+11/29/2021, 5:58:13 PM - DEBUG - auth.service - login with username: admin 
+11/29/2021, 5:58:22 PM - DEBUG - auth.service - login with username: admin 
+11/29/2021, 5:58:41 PM - INFO - Server is running on port: 3030 
+11/29/2021, 5:59:50 PM - DEBUG - auth.service - login with username: admin 
+11/29/2021, 5:59:50 PM - ERROR - Failed to Login Invalid username or password 
+11/29/2021, 5:59:54 PM - DEBUG - auth.service - login with username: admin 
+11/29/2021, 6:00:04 PM - INFO - Req!!! 
+11/29/2021, 6:00:04 PM - INFO - Req from: Admin 
+11/29/2021, 6:12:13 PM - INFO - Server is running on port: 3030 
+11/29/2021, 6:12:55 PM - INFO - Server is running on port: 3030 
+11/29/2021, 6:17:05 PM - INFO - Server is running on port: 3030 
+11/29/2021, 6:19:59 PM - INFO - Req!!! 
+11/29/2021, 6:22:25 PM - INFO - Req!!! 
+11/29/2021, 6:24:09 PM - INFO - Req!!! 
+11/29/2021, 6:25:35 PM - INFO - Req!!! 
+11/29/2021, 6:25:54 PM - INFO - Req!!! 
+11/29/2021, 6:26:49 PM - INFO - Req!!! 
+11/29/2021, 6:27:59 PM - DEBUG - auth.service - login with username: admin 
+11/29/2021, 6:27:59 PM - DEBUG - Setting (w9Pirbi_MEk98maqAAAL) socket.userId = 61a119c21ee9024b88be99f9 
+11/29/2021, 6:28:06 PM - INFO - Req!!! 
+11/29/2021, 6:28:06 PM - INFO - Req from: Admin 
+11/29/2021, 6:28:16 PM - INFO - Req!!! 
+11/29/2021, 6:28:16 PM - INFO - Req from: Admin 
+11/29/2021, 6:28:16 PM - DEBUG - broadcast to all but user:  | "61a119c21ee9024b88be99f9" 
+11/29/2021, 6:30:07 PM - INFO - Req!!! 
+11/29/2021, 6:30:30 PM - DEBUG - auth.service - login with username: oshra 
+11/29/2021, 6:30:30 PM - ERROR - Failed to Login Invalid username or password 
+11/29/2021, 6:30:51 PM - DEBUG - auth.service - login with username: a 
+11/29/2021, 6:30:51 PM - DEBUG - Setting (ZFKU7se-aJFndhXRAAAN) socket.userId = 61a0dd1dd8dae530dc871ded 
+11/29/2021, 6:30:58 PM - INFO - Req!!! 
+11/29/2021, 6:30:58 PM - INFO - Req from: oshra 
+11/29/2021, 6:31:08 PM - INFO - Req!!! 
+11/29/2021, 6:31:08 PM - INFO - Req from: oshra 
+11/29/2021, 6:31:08 PM - DEBUG - broadcast to all but user:  | "61a0dd1dd8dae530dc871ded" 
+11/29/2021, 6:41:05 PM - INFO - Server is running on port: 3030 
+11/29/2021, 6:42:31 PM - INFO - Server is running on port: 3030 
+11/29/2021, 6:42:54 PM - DEBUG - auth.service - login with username: admin 
+11/29/2021, 6:42:55 PM - DEBUG - auth.service - login with username: admin 
+11/29/2021, 6:42:55 PM - ERROR - Failed to Login Invalid username or password 
+11/29/2021, 6:42:56 PM - ERROR - Failed to Login Invalid username or password 
+11/29/2021, 6:47:19 PM - INFO - Server is running on port: 3030 
+11/29/2021, 6:53:04 PM - INFO - Server is running on port: 3030 
