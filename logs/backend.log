@@ -586,3 +586,9 @@
 11/29/2021, 6:42:56 PM - ERROR - Failed to Login Invalid username or password 
 11/29/2021, 6:47:19 PM - INFO - Server is running on port: 3030 
 11/29/2021, 6:53:04 PM - INFO - Server is running on port: 3030 
+11/29/2021, 7:04:12 PM - INFO - Server is running on port: 3030 
+11/29/2021, 7:04:49 PM - INFO - Server is running on port: 3030 
+11/29/2021, 7:05:24 PM - DEBUG - auth.service - signup with username: tom, fullname: tom 
+11/29/2021, 7:05:24 PM - DEBUG - auth.route - new account created: {"username":"tom","password":"$2b$10$pOgu6MBm8FitlIAns/0Ite3Iipdjt9ra.Skj5FiVpRCzjGIh7vEOS","fullname":"tom","score":0,"_id":"61a508544fb5435d700c0479"} 
+11/29/2021, 7:05:24 PM - DEBUG - auth.service - login with username: tom 
+11/29/2021, 7:05:24 PM - DEBUG - Setting (xql0LW0h1DJTjgMSAAAB) socket.userId = [object Object] 
